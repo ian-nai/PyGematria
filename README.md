@@ -2,7 +2,7 @@
 The [PyGematria](github.com/ian-nai/pygematria) package makes numerological analysis of texts easy and accessible, and supports multiple gematria systems and alphabets/languages. The package can also translate words and sentences back and forth from numbers to letters, preserving capitalization and punctuation from the original strings.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ian-nai/gematria/refs/heads/main/isopsephic_stele.jpg?token=GHSAT0AAAAAACWFJMCQMMRXUHGGCQ3B2H3KZYFPHOA" height="376" width="183.5">
+<img src="https://raw.githubusercontent.com/ian-nai/PyGematria/refs/heads/main/isopsephic_stele.jpg" height="376" width="183.5">
 </p>
 
 [The photo above is an example of isopsephy from the Sanctuary of Artemis Orthia, 2nd century AD](https://commons.wikimedia.org/wiki/File:Isopsephic_stele.jpg).
